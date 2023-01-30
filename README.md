@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kadixfox
+- 👋 Hi, I’m [kadix](@kadixfox)
 - 👀 I’m interested in ... hydrogen
 - 🌱 I’m currently learning ... basic executive functioning
 - 💞️ I’m looking to collaborate on ... cat pictures
