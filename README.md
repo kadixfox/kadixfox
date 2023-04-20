@@ -1,6 +1,7 @@
-- 👋 Hi, I’m kadix
-- 👀 I’m interested in ... hydrogen
-- 🌱 I’m currently learning ... basic executive functioning
-- 💞️ I’m looking to collaborate on ... cat pictures
-- 📫 How to reach me ... carrier pigeon (or, alternatively, foxbox on libera.chat)
-- domain manager and minecraft server owner for [Observational Astronomy](https://observational.space)
+kadix\
+\
+domain manager and minecraft server owner for [Observational Astronomy](https://observational.space)\
+\
+allegedly writes code\
+\
+you know where to find me
